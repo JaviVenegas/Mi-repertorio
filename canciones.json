@@ -1,0 +1,14 @@
+[
+   {
+      "id": 1,
+      "titulo": "Someone like you",
+      "artista": "Adele",
+      "tono": "suave"
+   },
+   {
+      "id": 2,
+      "titulo": "Blinding lights",
+      "artista": "The weekend",
+      "tono": "moderno"
+   }
+]
